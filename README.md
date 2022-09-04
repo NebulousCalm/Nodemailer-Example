@@ -24,8 +24,8 @@
 >  });
 >  
 >  var mailOptions = {
->    from: myEmail,
->    to: item,
+>    from: /* Your Email */,
+>    to: emails,
 >    subject: 'Subject Goes Here',
 >   text: 'Actual email goes here'
 >  };
